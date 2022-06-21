@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3570029f.css",
-    "main.js": "/static/js/main.d8d24b81.js",
+    "main.js": "/static/js/main.e2a6e8bc.js",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
     "static/media/vatan-bus.png": "/static/media/vatan-bus.80218a8395e152cdee01.png",
     "static/media/faraneh-clinic.png": "/static/media/faraneh-clinic.bce9366c5e65e8f716d9.png",
@@ -10,13 +10,13 @@
     "static/media/me-about.jpeg": "/static/media/me-about.306ba4393be066aea544.jpeg",
     "static/media/sadera-computer.png": "/static/media/sadera-computer.744c442b35434e288381.png",
     "static/media/pic-10.jpeg": "/static/media/pic-10.9e820352f5867024afb9.jpeg",
-    "static/media/CV.pdf": "/static/media/CV.8baaf6ec84a3a92607fe.pdf",
+    "static/media/CV.pdf": "/static/media/CV.329541939456b9174439.pdf",
     "index.html": "/index.html",
     "main.3570029f.css.map": "/static/css/main.3570029f.css.map",
-    "main.d8d24b81.js.map": "/static/js/main.d8d24b81.js.map"
+    "main.e2a6e8bc.js.map": "/static/js/main.e2a6e8bc.js.map"
   },
   "entrypoints": [
     "static/css/main.3570029f.css",
-    "static/js/main.d8d24b81.js"
+    "static/js/main.e2a6e8bc.js"
   ]
 }
