@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3570029f.css",
-    "main.js": "/static/js/main.b43649e5.js",
+    "main.js": "/static/js/main.23aa35cd.js",
     "static/media/CV.pdf": "/static/media/CV.6991bd8cb38eaaaa3734.pdf",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
     "static/media/vatan-bus.png": "/static/media/vatan-bus.80218a8395e152cdee01.png",
@@ -13,10 +13,10 @@
     "static/media/pic-10.jpeg": "/static/media/pic-10.9e820352f5867024afb9.jpeg",
     "index.html": "/index.html",
     "main.3570029f.css.map": "/static/css/main.3570029f.css.map",
-    "main.b43649e5.js.map": "/static/js/main.b43649e5.js.map"
+    "main.23aa35cd.js.map": "/static/js/main.23aa35cd.js.map"
   },
   "entrypoints": [
     "static/css/main.3570029f.css",
-    "static/js/main.b43649e5.js"
+    "static/js/main.23aa35cd.js"
   ]
 }
