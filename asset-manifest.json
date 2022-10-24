@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3570029f.css",
+    "main.css": "/static/css/main.95625e34.css",
     "main.js": "/static/js/main.99735f59.js",
     "static/media/CV.pdf": "/static/media/CV.6991bd8cb38eaaaa3734.pdf",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
@@ -12,11 +12,11 @@
     "static/media/sadera-computer.png": "/static/media/sadera-computer.744c442b35434e288381.png",
     "static/media/pic-10.jpeg": "/static/media/pic-10.9e820352f5867024afb9.jpeg",
     "index.html": "/index.html",
-    "main.3570029f.css.map": "/static/css/main.3570029f.css.map",
+    "main.95625e34.css.map": "/static/css/main.95625e34.css.map",
     "main.99735f59.js.map": "/static/js/main.99735f59.js.map"
   },
   "entrypoints": [
-    "static/css/main.3570029f.css",
+    "static/css/main.95625e34.css",
     "static/js/main.99735f59.js"
   ]
 }
