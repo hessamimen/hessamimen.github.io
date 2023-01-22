@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95625e34.css",
-    "main.js": "/static/js/main.99735f59.js",
-    "static/media/CV.pdf": "/static/media/CV.6991bd8cb38eaaaa3734.pdf",
+    "main.css": "/static/css/main.43da16b0.css",
+    "main.js": "/static/js/main.ef609002.js",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
     "static/media/vatan-bus.png": "/static/media/vatan-bus.80218a8395e152cdee01.png",
     "static/media/faraneh-clinic.png": "/static/media/faraneh-clinic.bce9366c5e65e8f716d9.png",
@@ -10,13 +9,14 @@
     "static/media/renomate-app.png": "/static/media/renomate-app.5efd119ce3ca232dfe6d.png",
     "static/media/me-about.jpeg": "/static/media/me-about.306ba4393be066aea544.jpeg",
     "static/media/sadera-computer.png": "/static/media/sadera-computer.744c442b35434e288381.png",
+    "static/media/CV.pdf": "/static/media/CV.bdba63a54b0d1a6d4ae6.pdf",
     "static/media/pic-10.jpeg": "/static/media/pic-10.9e820352f5867024afb9.jpeg",
     "index.html": "/index.html",
-    "main.95625e34.css.map": "/static/css/main.95625e34.css.map",
-    "main.99735f59.js.map": "/static/js/main.99735f59.js.map"
+    "main.43da16b0.css.map": "/static/css/main.43da16b0.css.map",
+    "main.ef609002.js.map": "/static/js/main.ef609002.js.map"
   },
   "entrypoints": [
-    "static/css/main.95625e34.css",
-    "static/js/main.99735f59.js"
+    "static/css/main.43da16b0.css",
+    "static/js/main.ef609002.js"
   ]
 }
