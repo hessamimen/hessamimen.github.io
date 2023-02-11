@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.c5793615.css",
-    "main.js": "/static/js/main.e72f16ac.js",
+    "main.js": "/static/js/main.4140ba5a.js",
     "static/media/gpt.png": "/static/media/gpt.0ab6f9aa51199cf68531.png",
+    "static/media/bank-spa.png": "/static/media/bank-spa.9ac8b9503a73505d3fb3.png",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
-    "static/media/vatan-bus.png": "/static/media/vatan-bus.80218a8395e152cdee01.png",
     "static/media/faraneh-clinic.png": "/static/media/faraneh-clinic.bce9366c5e65e8f716d9.png",
     "static/media/Web_Programmer_01_generated.jpg": "/static/media/Web_Programmer_01_generated.c587363879ffdda5bb46.jpg",
     "static/media/renomate-app.png": "/static/media/renomate-app.5efd119ce3ca232dfe6d.png",
@@ -13,10 +13,10 @@
     "static/media/CV.pdf": "/static/media/CV.bdba63a54b0d1a6d4ae6.pdf",
     "index.html": "/index.html",
     "main.c5793615.css.map": "/static/css/main.c5793615.css.map",
-    "main.e72f16ac.js.map": "/static/js/main.e72f16ac.js.map"
+    "main.4140ba5a.js.map": "/static/js/main.4140ba5a.js.map"
   },
   "entrypoints": [
     "static/css/main.c5793615.css",
-    "static/js/main.e72f16ac.js"
+    "static/js/main.4140ba5a.js"
   ]
 }
