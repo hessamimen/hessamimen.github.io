@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5793615.css",
-    "main.js": "/static/js/main.4140ba5a.js",
+    "main.js": "/static/js/main.6e196609.js",
     "static/media/gpt.png": "/static/media/gpt.0ab6f9aa51199cf68531.png",
     "static/media/bank-spa.png": "/static/media/bank-spa.9ac8b9503a73505d3fb3.png",
     "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
@@ -10,13 +10,13 @@
     "static/media/renomate-app.png": "/static/media/renomate-app.5efd119ce3ca232dfe6d.png",
     "static/media/me-about.jpeg": "/static/media/me-about.306ba4393be066aea544.jpeg",
     "static/media/sadera-computer.png": "/static/media/sadera-computer.744c442b35434e288381.png",
-    "static/media/CV.pdf": "/static/media/CV.bdba63a54b0d1a6d4ae6.pdf",
+    "static/media/CV.pdf": "/static/media/CV.2a458631951f95da0166.pdf",
     "index.html": "/index.html",
     "main.c5793615.css.map": "/static/css/main.c5793615.css.map",
-    "main.4140ba5a.js.map": "/static/js/main.4140ba5a.js.map"
+    "main.6e196609.js.map": "/static/js/main.6e196609.js.map"
   },
   "entrypoints": [
     "static/css/main.c5793615.css",
-    "static/js/main.4140ba5a.js"
+    "static/js/main.6e196609.js"
   ]
 }
