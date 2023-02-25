@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.389f4b29.css",
-    "main.js": "/static/js/main.14f1953e.js",
+    "main.js": "/static/js/main.25e73dae.js",
     "static/media/gpt.png": "/static/media/gpt.0ab6f9aa51199cf68531.png",
     "static/media/bank-spa.png": "/static/media/bank-spa.9ac8b9503a73505d3fb3.png",
-    "static/media/oil-garden.png": "/static/media/oil-garden.aa3e1226fc17fed0eeeb.png",
     "static/media/Web-Development-Management.png": "/static/media/Web-Development-Management.6e9adcd8699436e1fba6.png",
+    "static/media/react-gym-ts.png": "/static/media/react-gym-ts.3b9cd0daf35b2bd2facf.png",
     "static/media/Web_Programmer_01_generated.jpg": "/static/media/Web_Programmer_01_generated.c587363879ffdda5bb46.jpg",
     "static/media/renomate-app.png": "/static/media/renomate-app.5efd119ce3ca232dfe6d.png",
     "static/media/me-about.jpeg": "/static/media/me-about.306ba4393be066aea544.jpeg",
@@ -13,10 +13,10 @@
     "static/media/CV.pdf": "/static/media/CV.2a458631951f95da0166.pdf",
     "index.html": "/index.html",
     "main.389f4b29.css.map": "/static/css/main.389f4b29.css.map",
-    "main.14f1953e.js.map": "/static/js/main.14f1953e.js.map"
+    "main.25e73dae.js.map": "/static/js/main.25e73dae.js.map"
   },
   "entrypoints": [
     "static/css/main.389f4b29.css",
-    "static/js/main.14f1953e.js"
+    "static/js/main.25e73dae.js"
   ]
 }
