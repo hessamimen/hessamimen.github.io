@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.389f4b29.css",
-    "main.js": "/static/js/main.25e73dae.js",
+    "main.css": "/static/css/main.9a9b7226.css",
+    "main.js": "/static/js/main.4865a3a1.js",
+    "static/media/natours.png": "/static/media/natours.01fd5b71c0eb854626e1.png",
     "static/media/gpt.png": "/static/media/gpt.0ab6f9aa51199cf68531.png",
     "static/media/bank-spa.png": "/static/media/bank-spa.9ac8b9503a73505d3fb3.png",
     "static/media/Web-Development-Management.png": "/static/media/Web-Development-Management.6e9adcd8699436e1fba6.png",
@@ -9,14 +10,13 @@
     "static/media/Web_Programmer_01_generated.jpg": "/static/media/Web_Programmer_01_generated.c587363879ffdda5bb46.jpg",
     "static/media/renomate-app.png": "/static/media/renomate-app.5efd119ce3ca232dfe6d.png",
     "static/media/me-about.jpeg": "/static/media/me-about.306ba4393be066aea544.jpeg",
-    "static/media/sadera-computer.png": "/static/media/sadera-computer.744c442b35434e288381.png",
     "static/media/CV.pdf": "/static/media/CV.2a458631951f95da0166.pdf",
     "index.html": "/index.html",
-    "main.389f4b29.css.map": "/static/css/main.389f4b29.css.map",
-    "main.25e73dae.js.map": "/static/js/main.25e73dae.js.map"
+    "main.9a9b7226.css.map": "/static/css/main.9a9b7226.css.map",
+    "main.4865a3a1.js.map": "/static/js/main.4865a3a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.389f4b29.css",
-    "static/js/main.25e73dae.js"
+    "static/css/main.9a9b7226.css",
+    "static/js/main.4865a3a1.js"
   ]
 }
